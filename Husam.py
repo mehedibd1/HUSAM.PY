@@ -43,14 +43,13 @@ def ud():
     jalan(logo)
  
   
- 
+    print(1
     print(' [2] EXIT')
  
     opt = input('\n   Choose option >>> ')
  
     if opt == '1':
  
-        os.system('xdg-open https://youtube.com/channel/UCVbs4E9LndiFbRaa1RhqGEQ')
  
         FD()
  
@@ -90,7 +89,7 @@ def o():
  
     jalan(logo)
  
-    jalan('\tðŸ”¥ðŸ”¥RANDOM NUMBER CRACKðŸ”¥ðŸ”¥')
+    jalan)
  
     print('')
  
@@ -110,21 +109,19 @@ def o():
  
         i()
  
-    if None == '2':
- 
-        os.system('xdg-open https://www.facebook.com/profile.php?id=100082840689031')
+  
  
         return None
  
-    if None == '3':
+   
  
-        os.system('xdg-open https://youtube.com/channel/UCEae0bZn9TfRjJUFLfNG92A ')
+        
  
         return None
  
-    if None == '4':
+   
  
-        os.system('xdg-open https://facebook.com/groups/207678473842318/')
+        
  
         return None
  
@@ -326,7 +323,7 @@ ha = current.day
  
 today = date.today()
  
-logo =                                          ("""   
+logo =                                         
  
 \033[1;32m      
 ╔╗╔╗╔╦╗╔══╗╔══╗╔═╦═╗
@@ -336,9 +333,9 @@ logo =                                          ("""
 ────────────────────
  
  
-\033[1;37m================= \33[32;45mMUSAM\33[0;m =====================
+\033[1;37m================= \33HUSAM\33[0;m =====================
  
-\033[1;32m     \033[1;33mCREATED BY\33[0;m   :  \033[1;33mHUSAM\33[0;m\033[1;32m && \033[1;33mJANI\33[0;m
+\033[1;32m     \033[1;33mCREATED BY\33[0;m   :  \033[1;33mHUSAM\33[0;m\033[1;32m && \033[1;33\33[0;m
  
 \033[1;32m     \033[1;32mFACEBOK      : \033[1;34m HUSAM
  
